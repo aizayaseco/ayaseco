@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayaseco
 - 👀 I’m interested in making sense of data
-- 🌱 I’m currently learning DevOps and Axies Genetics
+- 🌱 I’m currently learning DevOps and Data Structure refreshers
 - 📫 How to reach me : just email aizayaseco@gmail.com
 
 <!---
