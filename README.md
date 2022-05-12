@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayaseco
-- 👀 I’m interested in making sense of data
-- 🌱 I’m currently learning DevOps and Data Structure refreshers
+- 👀 I’m passionate in two things: Coding and Music
+- 🌱 Purchase my book: [aizayaseco.com](https://aizayaseco.com/)
 - 📫 How to reach me : just email aizayaseco@gmail.com
 
 <!---
